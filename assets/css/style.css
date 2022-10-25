@@ -1,0 +1,198 @@
+.navbar {
+  background-color: #002f49a2;
+}
+.heading{
+  background: url(/assets/images/Background-4959.jpeg);
+}
+.heading h1{
+  color: #ffb347;
+  font-family: "Bungee", cursive;
+}
+.heading p{
+  /* color: rgb(70, 65, 65); */
+  font-family: "Pacifico", cursive;
+}
+.navbar-brand {
+  padding-left: 30px;
+  font-family: "Lobster", cursive;
+}
+.heading {
+ height: 500px;
+}
+.heading > .btn1,
+.btn2 {
+padding: 4vmin 7vmin;
+margin: 2vmin 2.5vmin;
+background: #002f49;
+font-size: 2.5vmin;
+font-family: "Poppins", sans-serif;
+color: white;
+}
+
+.heading > .btn2 {
+background-color:  #ff433d;
+color: white;
+}
+
+
+
+.features{
+font-family:  "Bungee", cursive;
+}
+.section_2 p{
+padding: 20px 30px;
+font-size: 10px;
+font-family: "Poppins", sans-serif;
+}
+
+
+
+
+
+
+
+.section_3 {
+  background: #f7ff00;
+  background: linear-gradient(to left, #db36a4, #f7ff00);
+  margin-bottom: 20px;
+  padding: 30px;
+}
+.section_3 .projects h1 {
+  font-family: "Bungee", cursive;
+  font-size: 20px;
+  color: whitesmoke;
+  padding-top: 20px;
+}
+.section_3 .projects p {
+  font-family: "Poppins", cursive;
+  color: rgb(232, 242, 243);
+  font-size: 10px;
+}
+.section_3 .images .flex-fill {
+background: rebeccapurple;
+height: 60vh;
+overflow: hidden;
+}
+.section_3 .images .flex-fill img {
+width: 210%;
+transition: 0.4s ease-in;
+}
+
+.section_3 .images .flex-fill img:hover {
+width: 180%;
+}
+
+
+
+
+.section_4 .services h1 {
+font-family:  "Bungee", cursive;
+font-size: 32px;
+}
+.section_4 .services > p {
+font-family: "Poppins", cursive;
+}
+.section_4 .services .cards {
+padding: 30px;
+padding-top: 16px;
+}
+.section_4 .services .cards i {
+padding: 16px;
+}
+.section_4 .services .cards h3 {
+font-family:  "Bungee", cursive;
+}
+.section_4 .services .cards > p {
+padding: 16px;
+}
+
+.section_4 .services .cards:first-child i,
+.cards:first-child h3 {
+color: #ff433d;
+}
+.section_4 .services .cards:nth-child(2) i,
+.cards:nth-child(2) h3 {
+color: rgba(8, 248, 80, 0.932);
+}
+.section_4 .services .cards:nth-child(3) i,
+.cards:nth-child(3) h3 {
+color: rgba(168, 2, 168, 0.897);
+}
+.section_4 {
+margin-bottom: 50px;
+}
+
+
+.section_5 {
+background: #833ab4;
+background: linear-gradient(to left, #fcb045, #fd1d1d, #833ab4);
+}
+
+.section_5 div h1 {
+padding: 20px;
+font-size: 40px;
+}
+
+.section_5 div p {
+font-size: 11px;
+}
+
+.section_5 .team h1,
+.section_5 .team p {
+color: whitesmoke;
+font-family: 'Poppins', sans-serif;
+}
+
+.section_5 .team .member {
+margin-top: 10px;
+}
+.section_5 .team .member:nth-child(1) img {
+width: 20%;
+border-radius: 50%;
+}
+
+.section_5 .team .member:nth-child(2) {
+margin-left: 27px;
+}
+.section_5 .team .member:nth-child(2) img {
+border-radius: 50%;
+}
+.section_5 .team .member:nth-child(3) {
+margin-left: 27px;
+}
+.section_5 .team .member:nth-child(3) img {
+width: 40%;
+border-radius: 50%;
+}
+.section_5 .team .member .details h4 {
+color: whitesmoke;
+}
+.section_5 .team .member .details > * {
+color: lightblue;
+font-family: 'Poppins', sans-serif;
+}
+
+.team {
+padding-bottom: 10px;
+}
+
+
+.section_6 {
+  padding: 16px 2px;
+}
+.section_6 .footer {
+padding: 0 10px;
+}
+.section_6 .footer label {
+color: whitesmoke;
+}
+.section_6 .footer ul li {
+color: #d3d0cb;
+}
+.copyrights,
+.copyrights p {
+padding: 0;
+margin: 0;
+border-top: 1px solid #d3d0cb;
+color: white;
+}
