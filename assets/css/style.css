@@ -21,10 +21,10 @@
 }
 .heading > .btn1,
 .btn2 {
-padding: 4vmin 7vmin;
-margin: 2vmin 2.5vmin;
+padding: 14px 17px;
+margin: 10px;
 background: #002f49;
-font-size: 2.5vmin;
+font-size: 12px;
 font-family: "Poppins", sans-serif;
 color: white;
 }
