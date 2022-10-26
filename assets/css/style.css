@@ -2,10 +2,10 @@
   background-color: #002f49a2;
 }
 .heading{
-  background: url(/assets/images/Background-4959.jpeg);
+  background: url(../images/Background-4959.jpeg);
 }
 .heading h1{
-  color: #ffb347;
+   color: #ffb347;
   font-family: "Bungee", cursive;
 }
 .heading p{
