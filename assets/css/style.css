@@ -39,7 +39,6 @@ color: white;
 font-family:  "Bungee", cursive;
 }
 .section_2 p{
-padding: 20px 30px;
 font-size: 10px;
 font-family: "Poppins", sans-serif;
 }
@@ -60,6 +59,7 @@ font-family: "Poppins", sans-serif;
   font-family: "Bungee", cursive;
   font-size: 20px;
   color: whitesmoke;
+  padding: 10px;
 }
 .section_3 .projects p {
   font-family: "Poppins", cursive;
@@ -145,7 +145,7 @@ font-family: 'Poppins', sans-serif;
 margin-top: 10px;
 }
 .section_5 .team .member:nth-child(1) img {
-width: 20%;
+width: 40%;
 border-radius: 50%;
 }
 
@@ -153,6 +153,7 @@ border-radius: 50%;
 margin-left: 27px;
 }
 .section_5 .team .member:nth-child(2) img {
+width: 40%;
 border-radius: 50%;
 }
 .section_5 .team .member:nth-child(3) {
