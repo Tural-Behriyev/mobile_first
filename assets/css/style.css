@@ -9,7 +9,6 @@
   font-family: "Bungee", cursive;
 }
 .heading p{
-  /* color: rgb(70, 65, 65); */
   font-family: "Pacifico", cursive;
 }
 .navbar-brand {
@@ -21,7 +20,7 @@
 }
 .heading > .btn1,
 .btn2 {
-padding: 14px 17px;
+padding: 10px 17px;
 margin: 10px;
 background: #002f49;
 font-size: 12px;
@@ -61,7 +60,6 @@ font-family: "Poppins", sans-serif;
   font-family: "Bungee", cursive;
   font-size: 20px;
   color: whitesmoke;
-  padding-top: 20px;
 }
 .section_3 .projects p {
   font-family: "Poppins", cursive;
